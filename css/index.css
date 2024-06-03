@@ -1,0 +1,31 @@
+header{
+    
+}
+.nameDiv0{
+    text-align: center;
+}
+.details {
+    /* display: grid; */
+    /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 30px; */
+    /* margin-top: 50px; */
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    text-align: center; /* Center text inside grid items */
+}
+.details div{
+    border: 2px solid black;
+    
+}
+.topicBar{
+    display: flex;
+    justify-content: center;
+}
+.topicSideLine{
+    height: 2px;
+    width: 300px;
+    background-color: black;
+    margin-top: 20px;
+    margin-right: 50px;
+}
